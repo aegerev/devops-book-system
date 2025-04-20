@@ -14,7 +14,7 @@ The API will provide the following basic functionalities:
 5. Deleting a book: Enables removing a book from the inventory.
 
 ## Maintenance notes
-Throughout the DevOps course, I will be updating this repository with new features and improvements. Here are the current maintenance notes (the newest edition will be on top):
+Throughout the DevOps course, I will be updating this repository with new features and improvements. Here are the current maintenance notes (the newest edition will be on top): <br/>
 4/21/2025: 
 <br/>
 4/20/2025: Initial commit; added the 'app' folder
